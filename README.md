@@ -1,2 +1,2 @@
 # Ubuntu-Camera-Detection
-This project contains the source code for gesture detections on the camera module 3, connected to a Raspberry Pi 5, running Ubuntu. 
+This project contains the source code for gesture detection on the camera module 3, connected to a Raspberry Pi 5, running Ubuntu. The purpose of this project is to secure the Raspberry Pi 5 by requiring the user to perform a series of gestures to the camera (programmed in Python). If these gestures are recognised and successful, the user is authenticated. If not, they are denied access to the machine.
